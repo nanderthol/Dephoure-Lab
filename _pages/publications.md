@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Dephoure Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Dephoure Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list go to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Noah+Dephoure) or [Google Scholar](https://scholar.google.ch/citations?user=KH_iDdAAAAAJ))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
